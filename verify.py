@@ -2,9 +2,9 @@ import requests
 
 class TikTok_verify:
 
-    def verifyVideo(username, videoID):
+    def verifyVideo(2e__i, videoID):
 
-        url = f"https://www.tiktok.com/@{username}/video/{videoID}"
+        url = f"https://www.tiktok.com/@{2e__i}/video/{videoID}"
 
         payload = {}
         headers = {
